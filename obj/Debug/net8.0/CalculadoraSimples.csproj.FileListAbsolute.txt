@@ -1,0 +1,15 @@
+/workspaces/CalculadoraSimples/bin/Debug/net8.0/CalculadoraSimples
+/workspaces/CalculadoraSimples/bin/Debug/net8.0/CalculadoraSimples.deps.json
+/workspaces/CalculadoraSimples/bin/Debug/net8.0/CalculadoraSimples.runtimeconfig.json
+/workspaces/CalculadoraSimples/bin/Debug/net8.0/CalculadoraSimples.dll
+/workspaces/CalculadoraSimples/bin/Debug/net8.0/CalculadoraSimples.pdb
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.AssemblyInfoInputs.cache
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.AssemblyInfo.cs
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.csproj.CoreCompileInputs.cache
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.sourcelink.json
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.dll
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/refint/CalculadoraSimples.dll
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.pdb
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/CalculadoraSimples.genruntimeconfig.cache
+/workspaces/CalculadoraSimples/obj/Debug/net8.0/ref/CalculadoraSimples.dll
